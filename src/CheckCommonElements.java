@@ -1,6 +1,9 @@
 import java.util.Arrays;
 
-public class CheckCommonPairs {
+public class CheckCommonElements{
+
+    // Question 7
+    // Write a Java program to find common elements between two integer arrays.
 
     public static void main(String[] args) {
         int[] array1 = {1, 5, 6, 9, 8, 2, 4};
