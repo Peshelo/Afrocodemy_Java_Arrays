@@ -1,4 +1,8 @@
 public class ArraySumAndProduct {
+
+    //Question 4
+    // Write a program to find the sum and product of all elements of an array.
+
     public static void main(String[] args) {
         // Hard code the array
         int[] array = {2, 3, 4, 7, 2};

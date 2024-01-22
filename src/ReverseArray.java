@@ -1,8 +1,11 @@
 import java.util.Arrays;
 
 public class ReverseArray {
+
+    //Question 3
+    //Given an array of 10 integers, copy all the elements in an another array but in reverse order
     public static void main(String[] args) {
-        int[] numbers = {1,2,3,4,5,6};
+        int[] numbers = {1,2,3,4,5,6,8,9,10};
 
         int[] reversedArray = reverse(numbers);
 

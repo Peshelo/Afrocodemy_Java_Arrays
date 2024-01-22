@@ -1,6 +1,10 @@
 public class FindMinMaxInArray {
     public static void main(String[] args) {
-        // Hard code the array
+
+        //Question 1
+        // Find largest and smallest elements of an array. N.B. hard code the array
+
+        //Hard code the array
         int[] array = {10, 5, 8, 3, 15, 7};
 
         // Initialize variables to store the largest and smallest elements
